@@ -1,0 +1,33 @@
+body{
+
+    background-color: black;
+
+}
+.container{
+
+    width: 80%;
+    
+
+}
+
+#circuito{
+
+    width: 80%;
+
+}
+
+#AR{
+
+    width: 30%;
+    border-color: green;
+    border-style: dotted;
+    margin: 0 auto;
+    margin-top: 3%;
+    padding-top: 1%;
+
+}
+
+#AR p{
+    text-decoration: none;
+
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Radiotransmisor FM
+* source:	https://sketchfab.com/3d-models/radiotransmisor-fm-c911b08879eb44daab9fb0dcc338772b
+* author:	icebreaker2608 (https://sketchfab.com/icebreaker2608)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Radiotransmisor FM" (https://sketchfab.com/3d-models/radiotransmisor-fm-c911b08879eb44daab9fb0dcc338772b) by icebreaker2608 (https://sketchfab.com/icebreaker2608) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
